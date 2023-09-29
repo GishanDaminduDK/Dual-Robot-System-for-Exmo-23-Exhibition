@@ -34,17 +34,10 @@ This remarkable achievement wouldn't have been possible without the dedication a
 
 We are also grateful for the unwavering support from the University of Moratuwa's Department of Electronic and Telecommunication. Together, we have created robots that offer an immersive learning experience for students at the intersection of technology and education. We are proud to empower the next generation of innovators! 🚀
 
-## Tags
+
 
 - #RoboticsInnovation
 - #EXMO2023
 - #MultirobotSystem
 - #EngineeringDesign
-
-Feel free to explore our code and documentation to learn more about our project. We are excited to share our work with the GitHub community and look forward to your feedback and contributions.
-
-[Insert screenshots, gifs, or images here to showcase your project]
-
-Thank you for visiting our repository!
-
 
